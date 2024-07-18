@@ -1,6 +1,10 @@
+@font-face{
+    font-family: KaushanScript-Regular;
+    src: url(../../assets/font/KaushanScript-Regular.ttf) format("truetype");
+}
+
 body {
-    background-color: linear-gradient(to bottom right, #7FE2E5, #00FF6E);
-    /*font-family:*/
+    background-color: linear-gradient(to bottom right, #7FE2E5, #00FF6E);    
 }
 
 #gradbackground {

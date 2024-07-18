@@ -1,7 +1,8 @@
 body {
     /*background-color: #7FE2E5;*/
     background-image: linear-gradient(to bottom right, #7FE2E5, #00FF6E);
-    /*font-family:*/
+    font-family: KaushanScript-Regular;
+    src: url(../assets/font/KaushanScript-Regular.ttf) format("truetype");
 }
 
 h1{
