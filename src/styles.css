@@ -1,6 +1,6 @@
 body {
-    /*background-color: #7FE2E5;*/
-    background-image: linear-gradient(to bottom right, #7FE2E5, #00FF6E);
+    background: rgb(127,226,229);
+    background: linear-gradient(108deg, rgba(127,226,229,1) 0%, rgba(0,255,255,1) 35%, rgba(0,255,110,1) 100%); 
     font-family: KaushanScript-Regular;
     src: url(../assets/font/KaushanScript-Regular.ttf) format("truetype");
 }
